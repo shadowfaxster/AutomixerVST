@@ -1,0 +1,14 @@
+#define APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+fxknob.png				DATA  DISCARDABLE     "fxknob.png"
+bigtoggleswitch.png		DATA  DISCARDABLE     "bigtoggleswitch.png"
+greymetal.png 			DATA  DISCARDABLE     "greymetal.png"
+hsbackS700.png			DATA  DISCARDABLE     "hsbackS700.png"
+hshandS700.png 			DATA  DISCARDABLE     "hshandS700.png"
+background.png			DATA  DISCARDABLE		"background.png"
+labelbg.png				DATA  DISCARDABLE		"labelbg.png"
